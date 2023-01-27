@@ -1,0 +1,105 @@
+body {
+    font-family: 'Lobster', cursive;
+
+}
+
+.blue-color {
+    color: rgb(39, 117, 165);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 50%;
+}
+
+.flexble-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.link-button {
+    color: white;
+    background-color: rgb(49, 156, 218);
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.link {
+    color: aliceblue;
+    background-color: rgb(49, 156, 218);
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.Frame-57{
+    background-image:url(Frame-57.jpg) ;
+    background-size: 100%;
+    
+}
+.lorem{
+    text-align: center;
+}
+.my{
+    text-align: center;
+} 
+.recipie-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40% ;
+    border-radius: 10px;
+    border-left: 7px;
+margin-left: 5%;
+padding-left: 30px;
+
+}
+.recipie-item img{
+    width: 40% ;
+    margin-top: 5%;
+}
+.image{
+    width: 220%;
+
+}
+.k{
+text-align: center;
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    width: 70% ;
+    border-radius: 10px;
+    border-left: 7px;
+    margin-left: 15%;
+
+}
+.you{
+    margin-left: 15%;
+}
+.eat{
+    color: rgb(183, 107, 53);
+}
+.fresh{
+    color: rgb(108, 109, 111);
+}
+.p{
+    color: aliceblue;
+}
+.live{
+    background-color: rgb(3, 3, 34);
+    text-align: center;
+    
+}
